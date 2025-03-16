@@ -39,7 +39,3 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 "I believe **polymaths** shape the future. The more I learn, the **less I know!** 🚀"  
 
 ---
-  
-> **_AteebNoOne/AteebNoOne is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile._**  
-
----
