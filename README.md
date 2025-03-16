@@ -1,4 +1,4 @@
-### 🚀 Hi, I'm AteebNoOne! 👨‍💻  
+### 🚀 Hi, I'm AteebNoOne! 👨‍💻  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AteebNoOne.AteebNoOne)
 
 A **passionate** full-stack developer, **polymath**, and tech enthusiast exploring cutting-edge innovations in **Quantum Computing, AI, and Core Programming**.  
 
@@ -14,9 +14,6 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 - 🚀 Looking to **collaborate** on **high-performance computing and futuristic tech projects**  
 
 ---
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AteebNoOne.AteebNoOne)
-
   
 ### 🌍 Find Me Everywhere!  
 📌 **Freelancer | GitHub | Facebook | Instagram | Twitter** ➡ @AteebNoOne  
