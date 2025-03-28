@@ -28,7 +28,7 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AteebNoOne&theme=dark)](https://git.io/streak-stats)
+![Ateeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteebNoOne&show_icons=true&theme=radical)
 
 ---
 
