@@ -21,7 +21,17 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 📧 **Contact Me:** [Email](mailto:ateebnoone@gmail.com)  
 
 ---
-  
+
+### 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=10&theme=radical)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AteebNoOne&theme=radical)
+
+---
+
 ### 🛠 Tech Stack  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)  
