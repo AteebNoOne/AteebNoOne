@@ -34,6 +34,6 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 ---
   
 ### ⚡ Fun Fact  
-"I believe **polymaths** shape the future. The more I learn, the **less I know!** 🚀"  
+"I believe **polymaths** shape the future. The more I learn, the **less I know!** 🚀"
 
 ---
