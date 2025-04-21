@@ -18,6 +18,8 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 ### 🌍 Find Me Everywhere!  
 📌 **Freelancer | GitHub | Facebook | Instagram | Twitter** ➡ @AteebNoOne  
 
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-%F0%9F%92%B3-blue)](https://buy.stripe.com/9AQaG0eWu8mo8k87sy)
+
 📧 **Contact Me:** [Email](mailto:ateebnoone@gmail.com)  
 
 ---
