@@ -20,15 +20,15 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 ### 🌍 Find Me Everywhere!  
 📌 **Freelancer | GitHub | Facebook | Instagram | Twitter** ➡ @AteebNoOne  
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-%F0%9F%92%B3-blue)](https://buy.stripe.com/9AQaG0eWu8mo8k87sy)
-
 📧 **Contact Me:** [Email](mailto:ateebnoone@gmail.com)  
 
 ---
 
 ### 📊 GitHub Stats   
 
-![Ateeb's GitHub stats](https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
+![GitHub Stats](https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
 
 ---
 
