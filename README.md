@@ -26,7 +26,7 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 
 ### 📊 GitHub Stats   
 
-![GitHub Stats](https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=radical&card_width=400) [![GitHub Streak](https://streak-stats.demolab.com?user=AteebNoOne&theme=radical&card_width=400)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=radical&card_width=400&v=1) [![GitHub Streak](https://streak-stats.demolab.com?user=AteebNoOne&theme=radical&card_width=400)](https://git.io/streak-stats)
 
 ---
 
