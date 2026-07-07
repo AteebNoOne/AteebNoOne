@@ -14,7 +14,6 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 - 🚀 Looking to **collaborate** on **high-performance computing and futuristic tech projects**  
 
 ---
-![Top Languages](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
   
 ### 🌍 Find Me Everywhere!  
 📌 **Freelancer | GitHub | Facebook | Instagram | Twitter** ➡ @AteebNoOne  
@@ -26,6 +25,7 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 ### 📊 GitHub Stats   
 
 ![GitHub Stats](https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=radical&card_width=400&v=1) [![GitHub Streak](https://streak-stats.demolab.com?user=AteebNoOne&theme=radical&card_width=400)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
 
 ---
 
