@@ -14,8 +14,7 @@ A **passionate** full-stack developer, **polymath**, and tech enthusiast explori
 - 🚀 Looking to **collaborate** on **high-performance computing and futuristic tech projects**  
 
 ---
-
-<a href="https://app.daily.dev/ateebnoone"><img src="https://api.daily.dev/devcards/v2/khdNuc1k4Qm5IBrJbQ37o.png?r=nod&type=default" width="356" alt="Ateeb Ur Rahmaan's Dev Card"/></a> ![Top Languages](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
+![Top Languages](https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=20&theme=radical)
   
 ### 🌍 Find Me Everywhere!  
 📌 **Freelancer | GitHub | Facebook | Instagram | Twitter** ➡ @AteebNoOne  
