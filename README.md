@@ -78,13 +78,13 @@ I'm a full-stack developer and technology lead with a focus on building producti
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=AteebNoOne&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="420" height="195" src="https://github-readme-stats-v2a6.onrender.com/api?username=AteebNoOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="420" height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=AteebNoOne&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AteebNoOne&theme=tokyonight" />
+  <img width="420" height="195" src="https://github-readme-stats-v2a6.onrender.com/api/top-langs/?username=AteebNoOne&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="420" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AteebNoOne&theme=tokyonight" />
 </div>
 
 <br/>
