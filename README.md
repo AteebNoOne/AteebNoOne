@@ -7,7 +7,7 @@
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AteebNoOne.AteebNoOne&left_color=1a1a2e&right_color=6366f1&left_text=Profile%20Views)](https://github.com/AteebNoOne)
 [![GitHub followers](https://img.shields.io/github/followers/AteebNoOne?style=social)](https://github.com/AteebNoOne)
 
-I build robust, scalable, and secure systems — from responsive frontends and containerized production infrastructure to kernel-level operations and AI orchestration pipelines.
+I build robust, scalable, and secure systems from responsive frontends and containerized production infrastructure to kernel-level operations and AI orchestration pipelines.
 
 [Email](mailto:ateebnoone@gmail.com) · [GitHub](https://github.com/AteebNoOne) · [Twitter](https://twitter.com/AteebNoOne)
 
