@@ -9,7 +9,7 @@
 
 I build robust, scalable, and secure systems from responsive frontends and containerized production infrastructure to kernel-level operations and AI orchestration pipelines.
 
-[Email](mailto:ateebnoone@gmail.com) · [GitHub](https://github.com/AteebNoOne) · [Twitter](https://twitter.com/AteebNoOne)
+[Email](mailto:ateebnoone@gmail.com) · [GitHub](https://github.com/AteebNoOne) · [Fiverr](https://www.fiverr.com/users/ateeburrahmaan/) · [Freelancer](https://www.freelancer.com/u/AteebNoOne) · [Twitter](https://twitter.com/AteebNoOne)
 
 </div>
 
